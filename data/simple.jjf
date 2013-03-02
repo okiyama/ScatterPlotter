@@ -1,0 +1,13 @@
+Title=title
+X-Axis Label=x-axis label
+Y-Axis Label=y-axis label
+X-Min=0.0
+X-Max=10.0
+Y-Min=0.0
+Y-Max=10.0
+0.0,0.0
+1.0,1.0
+2.0,2.0
+3.0,3.0
+4.0,4.0
+5.0,5.0
